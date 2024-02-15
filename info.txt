@@ -1,0 +1,5 @@
+video url: 
+
+https://www.youtube.com/watch?v=maPRR_jjyOE&t=1775s
+
+video stop: 14.51
